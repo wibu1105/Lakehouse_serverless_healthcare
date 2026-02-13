@@ -16,7 +16,7 @@ Pipeline chuyển đổi dữ liệu y tế thô (Synthea) sang chuẩn **OMOP C
 - ✅ **OMOP CDM v5.4**: Chuẩn hóa dữ liệu y tế quốc tế (OHDSI)
 - ✅ **Apache Iceberg**: ACID transactions + Time Travel trên Data Lake
 - ✅ **Serverless**: Chi phí thấp (Glue + Athena + S3)
-- ✅ **Scalable**: Xử lý petabyte-scale data
+- ✅ **Scalable**: Xử lý auto-scale data
 
 ---
 
